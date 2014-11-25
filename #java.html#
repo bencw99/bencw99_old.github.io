@@ -1,0 +1,53 @@
+<!DOCTYPE> 
+<html>
+	<head>
+		<title>Java | Benjamin Cohen-Wang</title>
+	</head>
+	<style>
+		p
+		{
+			font-family:"Verdana";
+			font-size:20px;
+			margin:20px 50px;
+		}
+		h
+		{
+			font-family:"Trebuchet MS";
+			font-size:40px;
+			margin: 20px 50px;
+		}
+		a
+		{
+			font-family:"Trebuchet MS";
+			font-size:30px;
+			margin:20px 50px;
+		}
+	</style>
+	<body>
+		<div>
+			<center><h>Java Programs</h1></center>
+		</div>
+		<hr>
+		<center><nav>
+			<a href="index.html">Home</a> |
+			<a href="java.html">Java</a> |
+			<a href="http://osrc.dfm.io/bencw99">About me</a> |
+			<a href="Animations.html">Animations</a>
+		</nav></center>
+		<hr>
+		<p>Below you can download three games I made called MoonLander, MarsLander and Adventure Game.</p>
+		<p>To play them, click on the links below, extract their files from the zip files downloaded, and click on the file called Game.jar. Make sure to keep the file named Game.jar in the same folder as the images and files, or else the games won't work.</p>
+		<p>I am still working on the Adventure Game. For now, a user can choose an avatar, walk around with the arrow keys, pick up items with d, and use items with the space bar.</p>
+		<p>The moonlander game is completed and was the first game I made in java. The user can control a rocket using the arrow keys and change various attributes of the rocket and controls in the settings page</p>
+		<p>The mars lander game is a version of the moonlander game with trickier terrain</p>
+		<p>I will be shortly updating both Moon Lander, and Mars Lander and will merge them both into one game with better graphics, and a better graphicsl user interface</p>
+		<p></p>
+		<a href = "AdventureGame.zip" title = "Adventure Game" >Download Adventure Game </a>
+		</p>
+		<a href = "MoonLander.zip" title = "MoonLander Game" >Download Moon Lander Game </a>
+		</p>
+<a href = "MarsLander.zip" title = "MarsLander Game" >Download Mars Lander Game </a>
+<a href = "CheckersGame.zip" title = "Checkers Game" >Download Checkers Game </a>
+
+	</body>
+</html>
